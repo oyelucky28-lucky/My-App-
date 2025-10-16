@@ -1,0 +1,7 @@
+{
+  "name": "Jayvika Essentials ERP Lite",
+  "description": "A web-based Inventory & Accounts App to manage products, purchases, sales, returns, and generate financial reports. It supports importing data from Excel and includes features like barcode scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
